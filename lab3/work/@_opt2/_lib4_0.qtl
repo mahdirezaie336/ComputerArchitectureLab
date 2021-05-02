@@ -1,0 +1,643 @@
+m255
+K4
+z2
+!s11e MIXED_VERSIONS
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/Rezaie/Documents/modelsim-workspace/t2/decoder
+T_opt
+!s110 1603234120
+VJDPT;AHW82nX8]AUZ<KGL2
+04 8 11 work moore_tb behavioural 1
+=1-6466b30fb37e-5f8f6947-3b1-1dc4
+Z1 o-quiet -auto_acc_if_foreign -work work +acc
+Z2 tCvgOpt 0
+n@_opt
+Z3 OL;O;2019.4;69
+R0
+T_opt1
+!s110 1603235972
+Vg`SVEz@9W?LKZaN3I6HcG1
+04 8 11 work two_s_tb behavioural 1
+=1-6466b30fb37e-5f8f7084-7b-b04
+R1
+R2
+n@_opt1
+R3
+R0
+T_opt2
+!s110 1603237115
+Vk@_0Gc_XT?nUQ0_J0WjBP1
+04 8 11 work mealy_tb behavioural 1
+=1-6466b30fb37e-5f8f74fa-342-858
+R1
+R2
+n@_opt2
+R3
+Ed_ff
+Z4 w1603217149
+Z5 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z6 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+!i122 -1
+Z7 dC:/Users/Rezaie/Documents/modelsim-workspace/lab3
+Z8 8C:/Users/Rezaie/Documents/modelsim-workspace/lab3/d_ff.vhd
+Z9 FC:/Users/Rezaie/Documents/modelsim-workspace/lab3/d_ff.vhd
+l0
+L4
+V]neHQbMB7U_?K^VMehB:M2
+!s100 7Jnz0<ZiUJP5NFM48^RoA1
+Z10 OL;C;2019.4;69
+32
+Z11 !s110 1603235966
+!i10b 1
+Z12 !s108 1603235966.000000
+Z13 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|C:/Users/Rezaie/Documents/modelsim-workspace/lab3/d_ff.vhd|
+Z14 !s107 C:/Users/Rezaie/Documents/modelsim-workspace/lab3/d_ff.vhd|
+!i113 0
+Z15 o-work work -2002 -explicit
+Z16 tExplicit 1 CvgOpt 0
+Abehavioural
+R5
+R6
+DEx4 work 4 d_ff 0 22 ]neHQbMB7U_?K^VMehB:M2
+!i122 -1
+l16
+L15
+V00f`XEc>TAIekozlzgH`70
+!s100 iO`RYY4iWbXl`LSc8b7513
+R10
+32
+R11
+!i10b 1
+R12
+R13
+R14
+!i113 0
+R15
+R16
+Ed_ff_tb
+Z17 w1603217280
+R5
+R6
+!i122 -1
+R7
+Z18 8C:/Users/Rezaie/Documents/modelsim-workspace/lab3/d_ff_tb.vhd
+Z19 FC:/Users/Rezaie/Documents/modelsim-workspace/lab3/d_ff_tb.vhd
+l0
+L4
+V>JL4OlAz:F;M]5OLlV;Lg0
+!s100 azj65m0?N;0dWV6jPEE5S0
+R10
+32
+R11
+!i10b 1
+R12
+Z20 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|C:/Users/Rezaie/Documents/modelsim-workspace/lab3/d_ff_tb.vhd|
+Z21 !s107 C:/Users/Rezaie/Documents/modelsim-workspace/lab3/d_ff_tb.vhd|
+!i113 0
+R15
+R16
+Abehavioural
+R5
+R6
+DEx4 work 7 d_ff_tb 0 22 >JL4OlAz:F;M]5OLlV;Lg0
+!i122 -1
+l21
+L8
+V17ZPDYfR>gZ50JeZ7ZnEI2
+!s100 PiJf0c8bKI:]QBj9X?OKT3
+R10
+32
+R11
+!i10b 1
+R12
+R20
+R21
+!i113 0
+R15
+R16
+Emealy_machine
+Z22 w1603231510
+R5
+R6
+!i122 -1
+R7
+Z23 8C:/Users/Rezaie/Documents/modelsim-workspace/lab3/mealy_machine.vhd
+Z24 FC:/Users/Rezaie/Documents/modelsim-workspace/lab3/mealy_machine.vhd
+l0
+L4
+V>6a;d1SO8SfNa:5Aj;6183
+!s100 6J13SJHj@IO7UQmaMoR6n0
+R10
+32
+Z25 !s110 1603235967
+!i10b 1
+Z26 !s108 1603235967.000000
+Z27 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|C:/Users/Rezaie/Documents/modelsim-workspace/lab3/mealy_machine.vhd|
+Z28 !s107 C:/Users/Rezaie/Documents/modelsim-workspace/lab3/mealy_machine.vhd|
+!i113 0
+R15
+R16
+Abehavioural
+R5
+R6
+DEx4 work 13 mealy_machine 0 22 >6a;d1SO8SfNa:5Aj;6183
+!i122 -1
+l22
+L16
+Vl0UUk=<IIh?FNB9J3>bFN0
+!s100 EM5n`@Hm=RhGZPfHYYaCG1
+R10
+32
+R25
+!i10b 1
+R26
+R27
+R28
+!i113 0
+R15
+R16
+Emealy_tb
+Z29 w1603230191
+R5
+R6
+!i122 -1
+R7
+Z30 8C:/Users/Rezaie/Documents/modelsim-workspace/lab3/mealy_tb.vhd
+Z31 FC:/Users/Rezaie/Documents/modelsim-workspace/lab3/mealy_tb.vhd
+l0
+L4
+V@`nI4I1[BWMc^QM6>AmYU1
+!s100 aW`Tzc[5h];PjlDGM_c[K3
+R10
+32
+R25
+!i10b 1
+R26
+Z32 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|C:/Users/Rezaie/Documents/modelsim-workspace/lab3/mealy_tb.vhd|
+Z33 !s107 C:/Users/Rezaie/Documents/modelsim-workspace/lab3/mealy_tb.vhd|
+!i113 0
+R15
+R16
+Abehavioural
+R5
+R6
+DEx4 work 8 mealy_tb 0 22 @`nI4I1[BWMc^QM6>AmYU1
+!i122 -1
+l26
+L8
+VH3QK3TEH8[C1g1a^9mzIT3
+!s100 K0WjG]HJCRn1PTcbz1>F=0
+R10
+32
+R25
+!i10b 1
+R26
+R32
+R33
+!i113 0
+R15
+R16
+Emoore_machine
+Z34 w1603234096
+R5
+R6
+!i122 -1
+R7
+Z35 8C:/Users/Rezaie/Documents/modelsim-workspace/lab3/moore_machine.vhd
+Z36 FC:/Users/Rezaie/Documents/modelsim-workspace/lab3/moore_machine.vhd
+l0
+L4
+VFmf`AAiliZF^PX4QhGAH?0
+!s100 C@;dcCgz>JVIe1aCN?1W^3
+R10
+32
+R25
+!i10b 1
+R26
+Z37 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|C:/Users/Rezaie/Documents/modelsim-workspace/lab3/moore_machine.vhd|
+Z38 !s107 C:/Users/Rezaie/Documents/modelsim-workspace/lab3/moore_machine.vhd|
+!i113 0
+R15
+R16
+Abehavioural
+R5
+R6
+DEx4 work 13 moore_machine 0 22 Fmf`AAiliZF^PX4QhGAH?0
+!i122 -1
+l22
+L16
+VWcEihB=aJ?jhN8jh3LOz;0
+!s100 TO032M3=<i1nCCjPn>l^^3
+R10
+32
+R25
+!i10b 1
+R26
+R37
+R38
+!i113 0
+R15
+R16
+Emoore_tb
+Z39 w1603232476
+R5
+R6
+!i122 -1
+R7
+Z40 8C:/Users/Rezaie/Documents/modelsim-workspace/lab3/moore_tb.vhd
+Z41 FC:/Users/Rezaie/Documents/modelsim-workspace/lab3/moore_tb.vhd
+l0
+L4
+VNT06Yc?^6f6DG@c6@f<SU0
+!s100 VN57kX];Yoee8iUcU5oEO3
+R10
+32
+Z42 !s110 1603235968
+!i10b 1
+Z43 !s108 1603235968.000000
+Z44 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|C:/Users/Rezaie/Documents/modelsim-workspace/lab3/moore_tb.vhd|
+Z45 !s107 C:/Users/Rezaie/Documents/modelsim-workspace/lab3/moore_tb.vhd|
+!i113 0
+R15
+R16
+Abehavioural
+R5
+R6
+DEx4 work 8 moore_tb 0 22 NT06Yc?^6f6DG@c6@f<SU0
+!i122 -1
+l25
+L8
+VzLm6KTV@`hYDWiNSO;X[O3
+!s100 D7LCBofjAOlP5ETb5M>5z3
+R10
+32
+R42
+!i10b 1
+R43
+R44
+R45
+!i113 0
+R15
+R16
+Et_ff
+Z46 w1603218396
+R5
+R6
+!i122 -1
+R7
+Z47 8C:/Users/Rezaie/Documents/modelsim-workspace/lab3/t_ff.vhd
+Z48 FC:/Users/Rezaie/Documents/modelsim-workspace/lab3/t_ff.vhd
+l0
+L4
+V`:mJ=FlYLzVNz`CYMh_4m1
+!s100 zH6[B90LLjS<5Lhg]Z[Rh0
+R10
+32
+R11
+!i10b 1
+R12
+Z49 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|C:/Users/Rezaie/Documents/modelsim-workspace/lab3/t_ff.vhd|
+Z50 !s107 C:/Users/Rezaie/Documents/modelsim-workspace/lab3/t_ff.vhd|
+!i113 0
+R15
+R16
+Abehavioural
+R5
+R6
+DEx4 work 4 t_ff 0 22 `:mJ=FlYLzVNz`CYMh_4m1
+!i122 -1
+l16
+L15
+V7625PgI]4YWzJ4ka_MWE^0
+!s100 5NIC6a_PMMDicQHIR5EB=1
+R10
+32
+R11
+!i10b 1
+R12
+R49
+R50
+!i113 0
+R15
+R16
+Et_ff_tb
+Z51 w1603218265
+R5
+R6
+!i122 -1
+R7
+Z52 8C:/Users/Rezaie/Documents/modelsim-workspace/lab3/t_ff_tb.vhd
+Z53 FC:/Users/Rezaie/Documents/modelsim-workspace/lab3/t_ff_tb.vhd
+l0
+L4
+VR4121OPZIlL4EcYA7amzB3
+!s100 Y5M[Z<AUQh?CMz=jejCWb1
+R10
+32
+R25
+!i10b 1
+R12
+Z54 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|C:/Users/Rezaie/Documents/modelsim-workspace/lab3/t_ff_tb.vhd|
+Z55 !s107 C:/Users/Rezaie/Documents/modelsim-workspace/lab3/t_ff_tb.vhd|
+!i113 0
+R15
+R16
+Abehavioural
+R5
+R6
+DEx4 work 7 t_ff_tb 0 22 R4121OPZIlL4EcYA7amzB3
+!i122 -1
+l23
+L8
+VF7J_COY8fV<ZE1AhSU6@<0
+!s100 eKUBJO`]IHz7;CE;DY:Qa1
+R10
+32
+R25
+!i10b 1
+R12
+R54
+R55
+!i113 0
+R15
+R16
+Etwo_s_tb
+Z56 w1603235733
+R5
+R6
+!i122 -1
+R7
+Z57 8C:/Users/Rezaie/Documents/modelsim-workspace/lab3/two_s_tb.vhd
+Z58 FC:/Users/Rezaie/Documents/modelsim-workspace/lab3/two_s_tb.vhd
+l0
+L4
+VFk>[EF3<>?;E<0He@D^;<2
+!s100 Fa9CeG`dPK2MnSnRbIX;m2
+R10
+32
+R42
+!i10b 1
+R43
+Z59 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|C:/Users/Rezaie/Documents/modelsim-workspace/lab3/two_s_tb.vhd|
+Z60 !s107 C:/Users/Rezaie/Documents/modelsim-workspace/lab3/two_s_tb.vhd|
+!i113 0
+R15
+R16
+Abehavioural
+R5
+R6
+DEx4 work 8 two_s_tb 0 22 Fk>[EF3<>?;E<0He@D^;<2
+!i122 -1
+l26
+L8
+V6EkQgm6jOUbJW30DI1;Sf1
+!s100 IhSSY0UCH_ODfZ:fa:N<60
+R10
+32
+R42
+!i10b 1
+R43
+R59
+R60
+!i113 0
+R15
+R16
+Etwo_sequence
+Z61 w1603235774
+R5
+R6
+!i122 -1
+R7
+Z62 8C:/Users/Rezaie/Documents/modelsim-workspace/lab3/two_sequence.vhd
+Z63 FC:/Users/Rezaie/Documents/modelsim-workspace/lab3/two_sequence.vhd
+l0
+L4
+ViZbLYd8IH[AzPh^@WiYQo0
+!s100 iRoGO=^N=Gm7ScBof<9J10
+R10
+32
+R42
+!i10b 1
+R43
+Z64 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|C:/Users/Rezaie/Documents/modelsim-workspace/lab3/two_sequence.vhd|
+Z65 !s107 C:/Users/Rezaie/Documents/modelsim-workspace/lab3/two_sequence.vhd|
+!i113 0
+R15
+R16
+Abehavioural
+R5
+R6
+DEx4 work 12 two_sequence 0 22 iZbLYd8IH[AzPh^@WiYQo0
+!i122 -1
+l22
+L16
+VU@In`R1]^DOBM`XH]]2Wo2
+!s100 L27gM8^6kgcLkjZfg^Zc33
+R10
+32
+R42
+!i10b 1
+R43
+R64
+R65
+!i113 0
+R15
+R16
+0.vhd
+Fvhdl_src/vital2000/prmtvs_p_2000.vhd
+l0
+L50
+VG>kiXP8Q9dRClKfK1Zn7j1
+!s100 G>kiXP8Q9dRClKfK1Zn7j1
+R6
+31
+b1
+Z105 !s110 1571164303
+!i10b 1
+R103
+!s90 -debug|-suppress|12110|-93|-work|ieee|-novital|-dirpath|$MODEL_TECH/..|vhdl_src/vital2000/prmtvs_p_2000.vhd|
+!s107 vhdl_src/vital2000/prmtvs_p_2000.vhd|
+!i113 1
+R104
+R12
+Bbody
+DPx4 work 16 vital_primitives 0 22 G>kiXP8Q9dRClKfK1Zn7j1
+R102
+R19
+R18
+!i122 -1
+8vhdl_src/vital2000/prmtvs_b_2000.vhd
+Fvhdl_src/vital2000/prmtvs_b_2000.vhd
+l0
+L33
+VL8@OL8nfVkLF;7TL8_DPa1
+!s100 L8@OL8nfVkLF;7TL8_DPa1
+R6
+31
+R105
+!i10b 1
+R103
+!s90 -debug|-suppress|12110|-93|-work|ieee|-novital|-dirpath|$MODEL_TECH/..|vhdl_src/vital2000/prmtvs_b_2000.vhd|
+!s107 vhdl_src/vital2000/prmtvs_b_2000.vhd|
+!i113 1
+R104
+R12
+Pvital_timing
+R19
+R18
+!i122 -1
+R71
+R3
+8vhdl_src/vital2000/timing_p_2000.vhd
+Fvhdl_src/vital2000/timing_p_2000.vhd
+l0
+L70
+VJ>EBealN09f8GzldA[z2>3
+!s100 J>EBealN09f8GzldA[z2>3
+R6
+31
+b1
+R105
+!i10b 1
+R86
+!s90 -debug|-suppress|12110|-93|-work|ieee|-novital|-dirpath|$MODEL_TECH/..|vhdl_src/vital2000/timing_p_2000.vhd|
+!s107 vhdl_src/vital2000/timing_p_2000.vhd|
+!i113 1
+R104
+R12
+Bbody
+DPx4 work 12 vital_timing 0 22 J>EBealN09f8GzldA[z2>3
+R19
+R18
+!i122 -1
+8vhdl_src/vital2000/timing_b_2000.vhd
+Fvhdl_src/vital2000/timing_b_2000.vhd
+l0
+L49
+VKEim8d[eJ5dE^:mEG0P3S0
+!s100 KEim8d[eJ5dE^:mEG0P3S0
+R6
+31
+R105
+!i10b 1
+R103
+!s90 -debug|-suppress|12110|-93|-work|ieee|-novital|-dirpath|$MODEL_TECH/..|vhdl_src/vital2000/timing_b_2000.vhd|
+!s107 vhdl_src/vital2000/timing_b_2000.vhd|
+!i113 1
+R104
+R12
+m255
+K4
+z2
+!s8c locked
+!s11e vcom 2019.4 2019.10, Oct 15 2019
+!s95 MTI
+cModel Technology Builtin Library
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+dC:/cygwin/pc_home/rhino/buildsites/2019.p/builds/win64/modeltech
+Penv
+!i122 -1
+Z0 w1571164141
+Z1 d$MODEL_TECH/..
+Z2 8vhdl_src/std/env.vhd
+Z3 Fvhdl_src/std/env.vhd
+l0
+L1
+Vd?`1ck@NdeD@H3RZG7FgZ2
+!s100 d?`1ck@NdeD@H3RZG7FgZ2
+Z4 OL;C;2019.4;69
+32
+b1
+Z5 !s110 1571164279
+!i10b 1
+Z6 !s108 1571164279.000000
+Z7 !s90 -debug|-suppress|12110|-work|std|-dirpath|$MODEL_TECH/..|vhdl_src/std/env.vhd|
+Z8 !s107 vhdl_src/std/env.vhd|
+!i113 1
+Z9 o-suppress 12110 -debug -work std -dirpath {$MODEL_TECH/..}
+Z10 tExplicit 1 CvgOpt 0
+Bbody
+DPx4 work 3 env 0 22 d?`1ck@NdeD@H3RZG7FgZ2
+!i122 -1
+l0
+L15
+VGO=IeNa]6JLe2BRN4G<kA2
+!s100 GO=IeNa]6JLe2BRN4G<kA2
+R4
+32
+R5
+!i10b 1
+R6
+R7
+R8
+!i113 1
+R9
+R10
+Pstandard
+!i122 -1
+R0
+R1
+8vhdl_src/std/standard.vhd
+Fvhdl_src/std/standard.vhd
+l0
+L8
+VofRa6alAEoSE^5WcJ^O]C2
+!s100 ofRa6alAEoSE^5WcJ^O]C2
+R4
+33
+R5
+!i10b 1
+!s108 1571164278.000000
+!s90 -debug|-suppress|12110|-s|-2008|-work|std|-dirpath|$MODEL_TECH/..|vhdl_src/std/standard.vhd|
+!s107 vhdl_src/std/standard.vhd|
+!i113 1
+o-suppress 12110 -debug -s -2008 -work std -dirpath {$MODEL_TECH/..}
+R10
+Ptextio
+!i122 -1
+Z11 w1546310146
+R1
+Z12 8vhdl_src/std/textio.vhd
+Z13 Fvhdl_src/std/textio.vhd
+l0
+L1
+VzE1`LPoLg^DX3Oz^4Fj1K3
+!s100 zE1`LPoLg^DX3Oz^4Fj1K3
+R4
+33
+b1
+R5
+!i10b 1
+R6
+Z14 !s90 -debug|-suppress|12110|-2008|-work|std|-dirpath|$MODEL_TECH/..|vhdl_src/std/textio.vhd|
+Z15 !s107 vhdl_src/std/textio.vhd|
+!i113 1
+Z16 o-suppress 12110 -debug -2008 -work std -dirpath {$MODEL_TECH/..}
+R10
+Bbody
+DPx4 work 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+!i122 -1
+l0
+L186
+VOBFf4Pj<FG4ZXfzD:k]VN1
+!s100 OBFf4Pj<FG4ZXfzD:k]VN1
+R4
+33
+R5
+!i10b 1
+R6
+R14
+R15
+!i113 1
+R16
+R10
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             
