@@ -1,0 +1,184 @@
+m255
+K4
+z2
+!s11e vcom 2019.4 2019.10, Oct 15 2019
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/modeltech64_2019.4/examples/Az/Az2/comparator
+T_opt
+!s110 1602618198
+V<:oV^lXm>[IlQg@7@cEjP2
+04 9 8 work testbench behavior 1
+=1-3497f6ba526b-5f860355-fe-26b8
+o-quiet -auto_acc_if_foreign -work work +acc
+tCvgOpt 0
+n@_opt
+OL;O;2019.4;69
+Ecompratorfour
+Z0 w1562356402
+Z1 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z2 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+!i122 -1
+Z3 dC:/modeltech64_2019.4/examples/Az/Computer-Architecture-Lab-master/E2/comprator
+Z4 8C:/modeltech64_2019.4/examples/Az/Computer-Architecture-Lab-master/E2/comprator/compratorfour.vhd
+Z5 FC:/modeltech64_2019.4/examples/Az/Computer-Architecture-Lab-master/E2/comprator/compratorfour.vhd
+l0
+L3
+VEQP1m>`<8k5OJ@hNBg;]A0
+!s100 ck]NHCTiX2E>oDiWBRP=j3
+Z6 OL;C;2019.4;69
+32
+Z7 !s110 1602618182
+!i10b 1
+Z8 !s108 1602618181.000000
+Z9 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|C:/modeltech64_2019.4/examples/Az/Computer-Architecture-Lab-master/E2/comprator/compratorfour.vhd|
+Z10 !s107 C:/modeltech64_2019.4/examples/Az/Computer-Architecture-Lab-master/E2/comprator/compratorfour.vhd|
+!i113 0
+Z11 o-work work -2002 -explicit
+Z12 tExplicit 1 CvgOpt 0
+Abehavioral
+R1
+R2
+DEx4 work 13 compratorfour 0 22 EQP1m>`<8k5OJ@hNBg;]A0
+!i122 -1
+l22
+L11
+VT?EzZ@PR75_IHzmJYC1Z]2
+!s100 7OJ[o3_T^?c8oB8zbhKj:2
+R6
+32
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 0
+R11
+R12
+Ecompratorone
+R0
+R1
+R2
+!i122 -1
+R3
+Z13 8C:/modeltech64_2019.4/examples/Az/Computer-Architecture-Lab-master/E2/comprator/compratorOne.vhd
+Z14 FC:/modeltech64_2019.4/examples/Az/Computer-Architecture-Lab-master/E2/comprator/compratorOne.vhd
+l0
+L5
+VzEgY?j8>hm=4d=6hU3dXm1
+!s100 61[V;jUA`ZC[HPO2Y;EED1
+R6
+32
+R7
+!i10b 1
+Z15 !s108 1602618182.000000
+Z16 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|C:/modeltech64_2019.4/examples/Az/Computer-Architecture-Lab-master/E2/comprator/compratorOne.vhd|
+Z17 !s107 C:/modeltech64_2019.4/examples/Az/Computer-Architecture-Lab-master/E2/comprator/compratorOne.vhd|
+!i113 0
+R11
+R12
+Abehavioral
+R1
+R2
+DEx4 work 12 compratorone 0 22 zEgY?j8>hm=4d=6hU3dXm1
+!i122 -1
+l26
+L16
+VPdYU5k9U=VfFoG6o4ke>H1
+!s100 Ai18W?^?ioRnekLamfXXl2
+R6
+32
+R7
+!i10b 1
+R15
+R16
+R17
+!i113 0
+R11
+R12
+Emux
+R0
+R1
+R2
+!i122 -1
+R3
+Z18 8C:/modeltech64_2019.4/examples/Az/Computer-Architecture-Lab-master/E2/comprator/mux.vhd
+Z19 FC:/modeltech64_2019.4/examples/Az/Computer-Architecture-Lab-master/E2/comprator/mux.vhd
+l0
+L5
+VELnPGDa4gOZ`P08j1V2o?2
+!s100 2KAN>G_?>TRoE3kCJ[@NP2
+R6
+32
+R7
+!i10b 1
+R15
+Z20 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|C:/modeltech64_2019.4/examples/Az/Computer-Architecture-Lab-master/E2/comprator/mux.vhd|
+Z21 !s107 C:/modeltech64_2019.4/examples/Az/Computer-Architecture-Lab-master/E2/comprator/mux.vhd|
+!i113 0
+R11
+R12
+Abehavioral
+R1
+R2
+DEx4 work 3 mux 0 22 ELnPGDa4gOZ`P08j1V2o?2
+!i122 -1
+l16
+L12
+V?4EGk^ahIFRe1A:X>Cf5d2
+!s100 Xz6Uz`H34n:_NGET9aPhO1
+R6
+32
+R7
+!i10b 1
+R15
+R20
+R21
+!i113 0
+R11
+R12
+Etestbench
+R0
+R1
+R2
+!i122 -1
+R3
+Z22 8C:/modeltech64_2019.4/examples/Az/Computer-Architecture-Lab-master/E2/comprator/testbench.vhd
+Z23 FC:/modeltech64_2019.4/examples/Az/Computer-Architecture-Lab-master/E2/comprator/testbench.vhd
+l0
+L6
+V2MHToM`Z1YC=PIiVnU`@j0
+!s100 7<jCo3I4O2@18I`KbFh<d3
+R6
+32
+Z24 !s110 1602618183
+!i10b 1
+Z25 !s108 1602618183.000000
+Z26 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|C:/modeltech64_2019.4/examples/Az/Computer-Architecture-Lab-master/E2/comprator/testbench.vhd|
+Z27 !s107 C:/modeltech64_2019.4/examples/Az/Computer-Architecture-Lab-master/E2/comprator/testbench.vhd|
+!i113 0
+R11
+R12
+Abehavior
+R1
+R2
+DEx4 work 9 testbench 0 22 2MHToM`Z1YC=PIiVnU`@j0
+!i122 -1
+l36
+L9
+V=Q]@`bCReR@WR<::V8ZRK0
+!s100 FPmS9Ud2kD=Z_]eAc:fb10
+R6
+32
+R24
+!i10b 1
+R25
+R26
+R27
+!i113 0
+R11
+R12
