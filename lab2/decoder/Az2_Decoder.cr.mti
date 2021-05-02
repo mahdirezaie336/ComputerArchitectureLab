@@ -1,0 +1,17 @@
+C:/modeltech64_2019.4/examples/Az/Computer-Architecture-Lab-master/E2/decoder/decoderone.vhd {1 {vcom -work work -2002 -explicit -vopt -stats=none C:/modeltech64_2019.4/examples/Az/Computer-Architecture-Lab-master/E2/decoder/decoderone.vhd
+Model Technology ModelSim SE-64 vcom 2019.4 Compiler 2019.10 Oct 15 2019
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity decoderone
+-- Compiling architecture Behavioral of decoderone
+
+} {} {}} C:/modeltech64_2019.4/examples/Az/Computer-Architecture-Lab-master/E2/decoder/testing.vhd {1 {vcom -work work -2002 -explicit -vopt -stats=none C:/modeltech64_2019.4/examples/Az/Computer-Architecture-Lab-master/E2/decoder/testing.vhd
+Model Technology ModelSim SE-64 vcom 2019.4 Compiler 2019.10 Oct 15 2019
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity testing
+-- Compiling architecture behavior of testing
+
+} {} {}}

@@ -1,0 +1,112 @@
+m255
+K4
+z2
+!s11e vcom 2019.4 2019.10, Oct 15 2019
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/modeltech64_2019.4/examples
+T_opt
+!s110 1602621405
+VWH4VoBzMUWUzbmC88S=0D2
+04 10 10 work decoderone behavioral 1
+=1-3497f6ba526b-5f860fdc-260-59b0
+Z1 o-quiet -auto_acc_if_foreign -work work +acc
+Z2 tCvgOpt 0
+n@_opt
+Z3 OL;O;2019.4;69
+R0
+T_opt1
+!s110 1602621493
+V[Kjd[32E^dQ]f[`JhXa]o1
+04 7 8 work testing behavior 1
+=1-3497f6ba526b-5f861034-293-3c60
+R1
+R2
+n@_opt1
+R3
+Edecoderone
+Z4 w1562356402
+Z5 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z6 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+!i122 -1
+Z7 dC:/modeltech64_2019.4/examples/Az/Computer-Architecture-Lab-master/E2/decoder
+Z8 8C:/modeltech64_2019.4/examples/Az/Computer-Architecture-Lab-master/E2/decoder/decoderone.vhd
+Z9 FC:/modeltech64_2019.4/examples/Az/Computer-Architecture-Lab-master/E2/decoder/decoderone.vhd
+l0
+L6
+VB7fQ5eh0ObLG4>Q2]RV=72
+!s100 cHb[ZVn6>AVPGYdX>`5DI1
+Z10 OL;C;2019.4;69
+32
+Z11 !s110 1602621462
+!i10b 1
+Z12 !s108 1602621462.000000
+Z13 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|C:/modeltech64_2019.4/examples/Az/Computer-Architecture-Lab-master/E2/decoder/decoderone.vhd|
+Z14 !s107 C:/modeltech64_2019.4/examples/Az/Computer-Architecture-Lab-master/E2/decoder/decoderone.vhd|
+!i113 0
+Z15 o-work work -2002 -explicit
+Z16 tExplicit 1 CvgOpt 0
+Abehavioral
+R5
+R6
+DEx4 work 10 decoderone 0 22 B7fQ5eh0ObLG4>Q2]RV=72
+!i122 -1
+l17
+L15
+V0ko:X]^^ZAz^OB8FA]G0d2
+!s100 8jTWIH66FIB@cLmIoml1^0
+R10
+32
+R11
+!i10b 1
+R12
+R13
+R14
+!i113 0
+R15
+R16
+Etesting
+R4
+R5
+R6
+!i122 -1
+R7
+Z17 8C:/modeltech64_2019.4/examples/Az/Computer-Architecture-Lab-master/E2/decoder/testing.vhd
+Z18 FC:/modeltech64_2019.4/examples/Az/Computer-Architecture-Lab-master/E2/decoder/testing.vhd
+l0
+L35
+V3AIgd0L90mCTXH;]Vc:FM1
+!s100 SJ<2J1JMRV9_R2b;Bfg9]1
+R10
+32
+R11
+!i10b 1
+R12
+Z19 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|C:/modeltech64_2019.4/examples/Az/Computer-Architecture-Lab-master/E2/decoder/testing.vhd|
+Z20 !s107 C:/modeltech64_2019.4/examples/Az/Computer-Architecture-Lab-master/E2/decoder/testing.vhd|
+!i113 0
+R15
+R16
+Abehavior
+R5
+R6
+DEx4 work 7 testing 0 22 3AIgd0L90mCTXH;]Vc:FM1
+!i122 -1
+l68
+L38
+V[1QBK61QkB_H:ill49IeE1
+!s100 3=l2BA<bAm=Na9mllGgZI2
+R10
+32
+R11
+!i10b 1
+R12
+R19
+R20
+!i113 0
+R15
+R16
