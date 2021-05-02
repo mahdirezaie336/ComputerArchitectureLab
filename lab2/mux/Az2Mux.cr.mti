@@ -1,0 +1,25 @@
+C:/modeltech64_2019.4/examples/Az/Computer-Architecture-Lab-master/E2/mux/testBench.vhd {1 {vcom -work work -2002 -explicit -vopt -stats=none C:/modeltech64_2019.4/examples/Az/Computer-Architecture-Lab-master/E2/mux/testBench.vhd
+Model Technology ModelSim SE-64 vcom 2019.4 Compiler 2019.10 Oct 15 2019
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity testBench
+-- Compiling architecture behavior of testBench
+
+} {} {}} C:/modeltech64_2019.4/examples/Az/Computer-Architecture-Lab-master/E2/mux/muxfour.vhd {1 {vcom -work work -2002 -explicit -vopt -stats=none C:/modeltech64_2019.4/examples/Az/Computer-Architecture-Lab-master/E2/mux/muxfour.vhd
+Model Technology ModelSim SE-64 vcom 2019.4 Compiler 2019.10 Oct 15 2019
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity muxfour
+-- Compiling architecture Behavioral of muxfour
+
+} {} {}} C:/modeltech64_2019.4/examples/Az/Computer-Architecture-Lab-master/E2/mux/muxT.vhd {1 {vcom -work work -2002 -explicit -vopt -stats=none C:/modeltech64_2019.4/examples/Az/Computer-Architecture-Lab-master/E2/mux/muxT.vhd
+Model Technology ModelSim SE-64 vcom 2019.4 Compiler 2019.10 Oct 15 2019
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity muxT
+-- Compiling architecture Behavioral of muxT
+
+} {} {}}
